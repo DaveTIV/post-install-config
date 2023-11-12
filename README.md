@@ -28,32 +28,27 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 <img src="https://i.imgur.com/nF4JGGx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
+This shows the "Roles" category that was created under Admin Panel>Agents>Roles. "Supreme Admin" was created for a role. "Permisssions" were chosen for this role.
 <p>
 <img src="https://i.imgur.com/AZzm2zO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-
+I created "Departments" were tickets are routed to from a triage stand point. "System Administrators" is the created department. Admin Panel>Agents>Departments 
 <p>
 <img src="https://i.imgur.com/17NOyvs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain. 
-
+"Level II Support" was created for a team. Admin Panel>Agents>Teams. Team members then would be added to the team.
 </p>
 <img src="https://i.imgur.com/Lbd5rr6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
+For Agents, Dave, Jane, John were created and placed on different teams. Admin Panel>Agents>Add New. For these agents, access, permissions were added to each agent depending on role.
 
 <p>
 <img src="https://i.imgur.com/S74cgZP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain.
-</p>
-<br />
 
+Here I created users Karen and Ken who are customers. Agent Panel>Users>Add New. Organization and their emails will be added to each user.
 <p>
+
 <img src="https://i.imgur.com/Hi7Mpic.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain.
-</p>
-<br />
+
+Three different levels of SLAs were created. SEV-A, SEV-B, SEV-C. Admin Panel>Manage>SLA. In each SLA, a grace period and schedule were added. These help with rersponse times and during which hours to be completed by.
