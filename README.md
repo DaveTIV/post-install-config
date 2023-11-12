@@ -51,7 +51,7 @@ It is important to take care of the patient, to be followed by the patient, but 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Hi7Mpic.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 It is important to take care of the patient, to be followed by the patient, but it will happen at such a time that there is a lot of work and pain.
