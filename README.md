@@ -52,3 +52,9 @@ Here I created users Karen and Ken who are customers. Agent Panel>Users>Add New.
 </p>
 
 Three different levels of SLAs were created. SEV-A, SEV-B, SEV-C. Admin Panel>Manage>SLA. In each SLA, a grace period and schedule were added. These help with rersponse times and during which hours to be completed by.
+<p>
+
+<img src="https://i.imgur.com/eecgg0U.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+"Help Topics" category is created which helps Users and Agents with questions or to report a problem. Admin Panel>Manage>Help Topics
